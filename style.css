@@ -8,3 +8,8 @@ body h1 {
     font-size: 75px;
   }
 
+body h2 {
+    color:rgb(208, 243, 224);
+    font-size: 35px;
+    font-style: italic;
+}
